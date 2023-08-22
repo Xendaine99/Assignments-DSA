@@ -1,3 +1,5 @@
+//QUESTION-2
+
 #include <stdio.h>
 
 void findSecondMinMax(int arr[], int size, int *secondMin, int *secondMax) {
